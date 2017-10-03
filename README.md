@@ -1,7 +1,7 @@
 1r Ejercicio de lenguaje de Marcas.
 
 en el cual nos solicitan:
-<p>Títol i descripció al <head> totalment descriptius amb el tema (Recomanat 8 i 32 paraules respectivament). (1 punt)</p>
+<p>Títol i descripció al < head > totalment descriptius amb el tema (Recomanat 8 i 32 paraules respectivament). (1 punt)</p>
 <p>Un rètol informatiu h1 al body (4 - 8 paraules) (1 punt)</p>
 <p>Una o més imatges relatives al tema que has triat, adequadament dimensionada i amb l'atribut alt que contengui 4-8 paraules que descriuen la imatge. (2 punts)</p>
 <p>Una taula de dades relacionades amb el tema. (1 punt)</p>
